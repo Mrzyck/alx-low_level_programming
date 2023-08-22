@@ -1,7 +1,7 @@
 # Alx-low_level_programming
 
 ## Table of Contents
-- [About C](about-c)
+- [About C](#about-c)
 - [Requirements](#requirements)
 - [Projects](#projects)
 

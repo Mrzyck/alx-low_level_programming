@@ -1,8 +1,8 @@
 # Alx-low_level_programming
 
 ## Table of Contents
-- [About C](https://github.com/Mrzyck/alx-low_level_programming/master/README.md#about-c)
-- [Requirements](https://github.com/Mrzyck/alx-low_level_programming/master/README.md#requirements)
+- [About C](about-c)
+- [Requirements](#requirements)
 - [Projects](#projects)
 
 ## About C

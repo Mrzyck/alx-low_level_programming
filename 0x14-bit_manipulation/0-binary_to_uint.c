@@ -10,16 +10,16 @@
 unsigned int binary_to_uint(const char *b)
 {
 	int decimal = 0;
-	int length = strlen(b), j;
+	int length = strlen(b), i;
 	int base = 1;
 
 	if (b == NULL)
 		return ((size_t)(NULL));
-	for (j = length - 1; j >= 0; j--)
+	for (i = length - 1; i >= 0; i--)
 	{
-		if (b[j] == '0' || b[j] == '1')
+		if (b[i] == '0' || b[i] == '1')
 		{
-			if (b[j] == '1')
+			if (b[i] == '1')
 				decimal += base; /** decimal = 1 + 4**/
 			base *= 2; /** 8**/
 		}

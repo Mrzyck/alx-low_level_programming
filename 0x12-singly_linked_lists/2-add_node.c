@@ -4,7 +4,7 @@
 #include <string.h>
 
 /**
- * add_note - adding a node to the beginning of a node
+ * add_node - adding a node to the beginning of a node
  * @head: double pointer to the head
  * @str: str name
  * Return: new address
